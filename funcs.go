@@ -4,7 +4,7 @@ import (
 	"io"
 	"text/template"
 
-	"go.haiyiyun.org/log"
+	"github.com/haiyiyun/log"
 )
 
 var (

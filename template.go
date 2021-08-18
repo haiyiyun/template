@@ -8,7 +8,7 @@ import (
 	"text/template"
 	"text/template/parse"
 
-	"go.haiyiyun.org/log"
+	"github.com/haiyiyun/log"
 )
 
 type FuncMap map[string]interface{}
