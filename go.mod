@@ -1,5 +1,5 @@
 module github.com/haiyiyun/template
 
-go 1.16
+go 1.17
 
-require github.com/haiyiyun/log v0.0.0-20210818124914-8d331595b3c9
+require github.com/haiyiyun/log v0.0.0-20211115100502-be01af77681c
